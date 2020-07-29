@@ -201,44 +201,6 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
-    },
-    {
-      "dishId": 0,
-      "rating": "4",
-      "author": "ddddd",
-      "comment": "wwwww",
-      "date": "2020-07-27T14:54:55.774Z",
-      "id": 20
-    },
-    {
-      "dishId": 0,
-      "rating": "5",
-      "author": "www",
-      "comment": "www",
-      "date": "2020-07-27T14:55:22.521Z",
-      "id": 210
-    },
-    {
-      "dishId": 0,
-      "rating": "4",
-      "author": "wfewfwe",
-      "comment": "wfwfw",
-      "date": "2020-07-28T11:03:17.325Z",
-      "id": 220
-    },
-    {
-      "dishId": 0,
-      "author": "ewfwefewfwe",
-      "comment": "fwfewfwfwefwf",
-      "date": "2020-07-28T11:04:37.627Z",
-      "id": 230
-    },
-    {
-      "dishId": 0,
-      "author": "sdd",
-      "comment": "dddddd",
-      "date": "2020-07-29T00:24:00.282Z",
-      "id": 24
     }
   ],
   "promotions": [
@@ -288,30 +250,6 @@
       "abbr": "EC",
       "featured": true,
       "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
-    }
-  ],
-  "feedback": [
-    {
-      "firstname": "Stefano",
-      "lastname": "Arteconi",
-      "telnum": "3298267164",
-      "email": "sterte@gmail.com",
-      "agree": true,
-      "contactType": "Email",
-      "message": "ciao",
-      "date": "2020-07-28T11:17:08.045Z",
-      "id": 1
-    },
-    {
-      "firstname": "aaaaaaaaa",
-      "lastname": "hhh",
-      "telnum": "3298267164",
-      "email": "abc%%@aa.bb",
-      "agree": false,
-      "contactType": "Email",
-      "message": "CW",
-      "date": "2020-07-28T11:27:01.496Z",
-      "id": 2
     }
   ]
 }
